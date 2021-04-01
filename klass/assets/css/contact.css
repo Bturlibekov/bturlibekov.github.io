@@ -1,0 +1,77 @@
+.header{
+	position: static;
+	top: 0;
+	left: 0;
+}
+.project{
+	padding-top: 100px;
+}
+.project-inner{
+	width: 100%;
+	margin-bottom: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+.form{
+	text-align: left;
+	width: 635px;
+}
+.form-example{
+ 	display: flex;
+ 	justify-content: space-between;
+}
+.input-1{
+	width: 285px;
+	border: none;
+	padding: 10px 10px;
+	margin-bottom: 30px;
+}
+.input-2{
+	width: 100%;
+	border: none;
+	padding: 10px 10px;
+	margin-bottom: 30px;
+}
+.input-3{
+	width: 100%;
+	height: 190px;
+	border: none;
+	padding: 20px 20px;
+	margin-bottom: 50px;
+}
+.address-block{
+	width: 315px;
+	height: 330px;
+}
+.address-title{
+	font-size: 30px;
+	font-weight: 400;
+	font-family: 'MyriadPro';
+	color: #171717;
+	margin-bottom: 40px;
+}
+.address-text{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'MyriadPro';
+	color: #787878;
+	line-height: 24px;
+	margin-bottom: 35px;
+}
+.contact-info{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'MyriadPro';
+	color: #171717;
+	margin-bottom: 22px;
+}
+.contact-info:last-child{
+	margin-bottom: 22px;
+}
+.contact-info a{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'MyriadPro';
+	color: #787878;
+	padding-left: 5px;
+}
